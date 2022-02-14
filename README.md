@@ -1,7 +1,9 @@
 ## Intro
 This bot sends messages by itself at a random period of time. it also responds to messages and doesn't use any kind of prefix to activate, it responds messages "naturally"
 
-![image](https://user-images.githubusercontent.com/37451620/153867045-f75bafde-be3c-47b2-8389-b1482cd42e11.png)
+* This bot was made in Portuguese. But I also have the English version
+
+![image](https://user-images.githubusercontent.com/37451620/153868147-93efbb06-9271-43e1-a979-1fc66ad2bdba.png)
 
 ## Setup
 To configure on the server, we will use: https://replit.com/
